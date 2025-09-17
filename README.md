@@ -1,6 +1,7 @@
 # dl09-NLP02
 Indepth Intuition Named Entity Recognition (NER) in NLP
-📌 Introduction
+
+
 Named Entity Recognition (NER) is one of the most fundamental and impactful tasks in Natural Language Processing (NLP). At its core, NER is about identifying and classifying key information in text—names of people, organizations, locations, dates, monetary values, and more. While it may sound simple, the process is rich with linguistic nuance, statistical modeling, and deep learning innovation.
 
 NER acts as a bridge between unstructured text and structured data. It enables machines to extract meaningful entities from raw language, making it possible to build intelligent systems like search engines, chatbots, recommendation engines, and knowledge graphs.
